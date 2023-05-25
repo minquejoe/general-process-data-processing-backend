@@ -27,3 +27,6 @@ Connection: close <br>
   0.0, <br>
   0.0 <br>
 \] <br>
+
+# TODO
+fix output with list type for method which is mostly dependent, for the convenience of js use.
