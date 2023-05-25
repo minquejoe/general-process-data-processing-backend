@@ -1,5 +1,5 @@
 # general-process-data-processing-backend
-A backend intergrated some general process data processing methods, including statistics, time domain, frequency domain,  time-freq domian and time series forecasting(only for test).
+A backend intergrated some general process data processing methods, including statistics, time domain, frequency domain,  time-freq domian and time series forecasting(only for test). A rough test frontend project base on [vue manage system](https://github.com/lin-xin/vue-manage-system) is [here](https://github.com/minquejoe/general-process-data-processing-frontend).
 
 # usage
 1. run file：`python np-4.2_test_api.py`
