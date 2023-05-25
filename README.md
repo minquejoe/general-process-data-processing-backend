@@ -29,4 +29,4 @@ Connection: close <br>
 \] <br>
 
 # TODO
-fix output with list type for method which is mostly dependent, for the convenience of js use.
+fix output with list type for those method which is mostly independent, for the convenience of js use.
