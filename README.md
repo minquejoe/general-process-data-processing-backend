@@ -12,7 +12,7 @@ optional params see `np_4_2.py` and `np_4_2_tsf.py`, the original method file, o
 `curl --request POST --url http://127.0.0.1:5000/freq_dom_/denoise --header 'content-type: application/json' --header 'user-agent: vscode-restclient' --data '{"data": [1,2,3], "ratio": 0.1}'`
 
 **explain**: <br>
-backend run on 127.0.0.1:5000，use denoise methond in  frequency domain, default use svd method, the top 1% singular values are remained.
+backend run on `127.0.0.1:5000`，use denoise methond in  frequency domain, default use svd method, the top 1% singular values are remained.
 
 **result**：<br>
 HTTP/1.1 200 OK <br>
